@@ -1,0 +1,10 @@
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\bin\Debug\netcoreapp3.1\Entidades.exe
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\bin\Debug\netcoreapp3.1\Entidades.runtimeconfig.json
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\bin\Debug\netcoreapp3.1\Entidades.runtimeconfig.dev.json
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\antho\Desktop\UCNE\Monografico\ProyectoFinal\CreandoEntidades\Entidades\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
